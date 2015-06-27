@@ -1,0 +1,2 @@
+- service: app
+  command: gradle clean build cobertura

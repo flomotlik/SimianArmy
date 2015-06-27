@@ -1,0 +1,4 @@
+app:
+    build:
+      image: flomotlik/simianarmy
+      dockerfile_path: Dockerfile
